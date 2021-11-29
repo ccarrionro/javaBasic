@@ -1,4 +1,4 @@
-package obc.clases;
+package obc;
 
 /**
  * Tipos de datos en Java

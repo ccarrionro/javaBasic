@@ -12,7 +12,7 @@
 
 
 
-package obc.clases;
+package obc;
 
 public class Ejercicio2 {
 

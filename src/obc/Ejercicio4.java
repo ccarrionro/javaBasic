@@ -1,14 +1,17 @@
 /*
-  Ejercicio 4
-  <p>En este ejercicio tendr&eacute;is que crear una clase <strong>SmartDevice</strong>. Dentro crear&eacute;is las clases hijas: <strong>SmartPhone</strong> y <strong>SmartWatch</strong>.</p>
-  <p>Agregar&eacute;is atributos tal cual tendr&iacute;an esos objetos en la realidad.</p>
-  <p>Crear constructor vac&iacute;o y con todos los par&aacute;metros para cada clase.</p>
-  <p>Desde una clase <strong>Main</strong>: crear&eacute;is objetos de cada una y los utilizar&eacute;is para imprimir sus valores por consola.</p>
+ Ejercicio 4
+ <p>En este ejercicio tendr&eacute;is que crear una clase <strong>SmartDevice</strong>. Dentro crear&eacute;is las clases hijas: <strong>SmartPhone</strong> y <strong>SmartWatch</strong>.</p>
+ <p>Agregar&eacute;is atributos tal cual tendr&iacute;an esos objetos en la realidad.</p>
+ <p>Crear constructor vac&iacute;o y con todos los par&aacute;metros para cada clase.</p>
+ <p>Desde una clase <strong>Main</strong>: crear&eacute;is objetos de cada una y los utilizar&eacute;is para imprimir sus valores por consola.</p>
 
- */
+*/
 
 
-package obc.clases;
+package obc;
+
+import obc.clases.SmartPhone;
+import obc.clases.SmartWatch;
 
 public class Ejercicio4 {
 
