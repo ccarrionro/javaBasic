@@ -22,10 +22,10 @@ public class Ejercicio1 {
 
         */
 
-        byte var1 = 126;
-        short var2 = 30254;
-        int var3 = 230;
-        long var4 = -250;
+         byte var1 = 126;
+         short var2 = 30254;
+         int var3 = 230;
+         long var4 = -250;
 
         /*
         Tipos numéricos en punto flotante
@@ -37,8 +37,8 @@ public class Ejercicio1 {
 
         */
 
-        float var5 = 12.33f;
-        double var6 = -322.982d;
+         float var5 = 12.33f;
+         double var6 = -322.982d;
 
         /*
         Booleanos y caracteres
@@ -48,8 +48,8 @@ public class Ejercicio1 {
 
         */
 
-        boolean var7 = true;
-        char var8 = 'g';
+         boolean var7 = true;
+         char var8 = 'g';
 
         // Tipo de datos estructurados - clases
         // ======================================
@@ -63,7 +63,7 @@ public class Ejercicio1 {
 
          */
 
-        String var9 = "Variable tipo String de ejemplo";
+         String var9 = "Variable tipo String de ejemplo";
 
         /*
         Vectores o arrays
@@ -76,8 +76,8 @@ public class Ejercicio1 {
 
 
 
-        int[][] matriz;
-        matriz = new int[2][2];
+         int[][] matriz;
+         matriz = new int[2][2];
 
         matriz[0][1] = 29;
 
