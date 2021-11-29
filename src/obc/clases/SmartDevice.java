@@ -8,16 +8,16 @@ public class SmartDevice {
 
     // 1. Atributos
 
-    String procesador = "";
-    int nucleo = 0;
-    String fabricante = "";
-    String marca = "";
-    String modelo = "";
-    boolean gps;
-    boolean bluetooth;
-    boolean wifi;
-    int year;
-    float precio=0;
+    private String procesador = "";
+    private int nucleo = 0;
+    private String fabricante = "";
+    private String marca = "";
+    private String modelo = "";
+    private boolean gps;
+    private boolean bluetooth;
+    private boolean wifi;
+    private int year;
+    private float precio=0;
 
 
     // 2. Constructores

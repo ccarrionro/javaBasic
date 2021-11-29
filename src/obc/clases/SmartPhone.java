@@ -8,10 +8,10 @@ public class SmartPhone extends SmartDevice {
 
     // 1. Atributos
 
-    float sizeScreen;
-    float resolucion;
-    boolean dualSim;
-    String sistemaOperativo;
+    private float sizeScreen;
+    private float resolucion;
+    private boolean dualSim;
+    private String sistemaOperativo;
 
 
     // 2. Constructores
@@ -20,7 +20,7 @@ public class SmartPhone extends SmartDevice {
     }
 
     public SmartPhone(String procesador, float sizeScreen, float resolucion, boolean dualSim, String sistemaOperativo) {
-        this.procesador = procesador;
+        this.setProcesador(procesador);
         this.sizeScreen = sizeScreen;
         this.resolucion = resolucion;
         this.dualSim = dualSim;

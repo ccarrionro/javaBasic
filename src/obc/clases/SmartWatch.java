@@ -3,9 +3,9 @@ package obc.clases;
 public class SmartWatch extends SmartDevice{
 
     // 1. Atributos
-    float duracionBateriaHoras;
-    boolean phone;
-    String color;
+    private float duracionBateriaHoras;
+    private boolean phone;
+    private String color;
 
 
     // 2. Constructores
@@ -15,7 +15,7 @@ public class SmartWatch extends SmartDevice{
     }
 
     public SmartWatch(String procesador, float duracionBateriaHoras, boolean phone, String color) {
-        this.procesador = procesador;
+        this.setProcesador(procesador);
         this.duracionBateriaHoras = duracionBateriaHoras;
         this.phone = phone;
         this.color = color;
