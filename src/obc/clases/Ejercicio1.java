@@ -76,7 +76,7 @@ public class Ejercicio1 {
 
 
 
-        int matriz[][];
+        int[][] matriz;
         matriz = new int[2][2];
 
         matriz[0][1] = 29;
@@ -87,7 +87,7 @@ public class Ejercicio1 {
         System.out.println("=======================");
         System.out.println("Byte:"+var1);
         System.out.println("Short:"+var2);
-        System.out.println("Int:"+var3); 
+        System.out.println("Int:"+var3);
         System.out.println("Long:"+var4);
 
         System.out.println();
