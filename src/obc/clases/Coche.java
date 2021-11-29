@@ -4,10 +4,10 @@ public class Coche {
 
 
         // 1. Atributos
-        String fabricante;
-        String modelo;
-        String matricula;
-        float cc;
+        private String fabricante;
+        private String modelo;
+        private String matricula;
+        private float cc;
 
         // 2. Constructor
 
